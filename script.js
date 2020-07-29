@@ -97,6 +97,7 @@ let drawCells = () => {
 		    tooltip.transition()
 		   		   .style('visibility', 'hidden')
 		  })
+		  
 
 }
 
